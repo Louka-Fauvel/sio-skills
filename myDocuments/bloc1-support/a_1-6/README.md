@@ -43,6 +43,9 @@ avec le logiciel Webdev 25 et 27.
 
 ![Altilog](./doc/altilog.png)
 
+### Stage chez Fime
+Lors de mon stage chez Fime, j'ai révisé Angular et Python.
+
 ---
 ## Mise en œuvre d’outils et de stratégie veille informationnelle
 
