@@ -6,7 +6,6 @@
 ---
 
 ### CRM
-
 Madame JPF, sophrologue, n’est pas informatisée et elle 
 réalise tous ses documents à la main. 
 J'ai essayé de lui proposer un logiciel pour l’aider à gérer son activité.
@@ -28,7 +27,6 @@ Cela m'a permis de choisir un CRM adapté aux besoins de ma cliente : Agile CRM.
 ![CRM document Etude gestion entreprise et relation client](./doc/crm_diapo_etude.png)
 
 ### Stage chez Fime
-
 Lors de ma première semaine de stage chez Fime, j'ai étudié le site de 
 l'entreprise en anglais afin de bien comprendre les missions de l'entreprise 
 et identifier ses ressources numériques.
@@ -48,16 +46,19 @@ le langage Typescript afin de maitriser les outils de l'entreprise.
 ---
 
 ### Refonte-Site-Artiste
-
 Utilisation de WordPress. 
 
 ### CRM
-
 Utilisation d'Agile CRM.
 
 ### Stage chez Altilog
-
 Utilisation de Webdev 25 et 27.
+
+### Stage chez Fime
+Mise en place des projets avec l'installation sur un ordinateur vide de plus
+de 14000 fichiers. Le frontend et le backend sont rangés dans
+des repositories différents. J'ai suivi les instructions de mon tuteur et
+du fichier README en anglais pour les mettre en place.
 
 ---
 ## Mise en place et vérification des niveaux d’habilitation associés à un service
@@ -68,7 +69,6 @@ j'ai mis en place un système de rôles qui permet la vérification
 des niveaux d'habilitation des utilisateurs à un service. 
 
 ### Refonte-Site-Artiste
-
 Mise en place des rôles :
 - admin : Je peux modifier la structure du site. 
 - auteur : L'artiste peut modifier certains articles ou ajouter des photos
@@ -78,7 +78,6 @@ la structure du site.
 ![Refonte-Site-Artiste documentation client](./doc/refonte-site-artiste_doc_client.png)
 
 ### CRM
-
 Mise en place des rôles :
 - admin : Je peux modifier la structure du CRM et créer des documents préfabriqués comme 
 (fiche de renseignements, consultations, protocoles et factures).
@@ -89,7 +88,6 @@ consultations, protocoles et factures).
 ![CRM documentation client](./doc/crm_doc_client.png)
 
 ### Proxmox-admin
-
 Mise en place des rôles : 
 - @ADMIN :
   - Gérer les serveurs
@@ -122,14 +120,12 @@ Mise en place des rôles :
 ![Proxmox-admin code](./doc/proxmox-admin_code_role.png)
 
 ### Stage chez Altilog
-
 Mise en place d'une sécurité : si le compte utilisateur 
 est suspendu de la base de données, il ne peut pas se connecter.
 
 ![Altilog erreur de connexion](./doc/altilog_erreur_connexion.png)
 
 ### E-music
-
 Mise en place des rôles :
 - ROLE_ADMIN : 
   - Créer un cours
