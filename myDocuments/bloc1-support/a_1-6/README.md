@@ -93,3 +93,15 @@ J'ai créé [ma page Linkedin](https://www.linkedin.com/in/louka-fauvel-26841120
 sur les réseaux et faciliter ma recherche de stage.
 
 ![Page de profil sur Linkedin](./doc/linkedin.png)
+
+---
+## Développement de son projet professionnel
+
+---
+
+### Indeed
+Je me suis inscrit sur Indeed afin de constituer un fichier avec 
+la liste des entreprises présentes sur Caen et ses alentours.
+Cela m'a permis de trouver mon stage chez Fime.
+Je souhaite utiliser ce fichier afin de trouver une alternance pour 
+une formation en développement d'application à la rentrée prochaine.
