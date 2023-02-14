@@ -1,16 +1,49 @@
-# [A 1.5] Mise à disposition des utilisateurs d’un service informatique
+# [A 1.5] Mise à disposition des utilisateurs d'un service informatique
 
 ---
-## Déploiement d’un service
+## Test d'intégration et d'acceptation d'un service
+
+---
+### Stage chez Fime
+**Projet :** 2
+
+**Mission :** 2 (Frontend)
+
+**Objectif :** modification d'un formulaire
+
+J'ai réalisé des tests d'intégration pour les nouvelles modifications.
+
+**Projet :** 2
+
+**Mission :** 3 (Frontend)
+
+**Objectif :** Ajouter une nouvelle itération dans un projet fermé grâce à 
+un nouveau bouton
+
+J'ai ajouté les tests pour vérifier si les nouvelles fonctionnalités sont 
+aux normes et qu'il n'y ait pas d'erreur.
+![Fime projet 2 mission 3](./doc/fime_projet_2_mission_3_test_1.png)
+![Fime projet 2 mission 3](./doc/fime_projet_2_mission_3_test_2.png)
+![Fime projet 2 mission 3](./doc/fime_projet_2_mission_3_test_3.png)
+
+**Projet :** 2
+
+**Mission :** 5 (Frontend)
+
+**Objectif :** Ajouter le nom de l'entreprise lors d'un commentaire
+
+J'ai réalisé des tests d'intégration pour les nouvelles modifications.
+
+---
+## Déploiement d'un service
 
 ---
 ### CRM
-
-Madame JPF est sophrologue. Elle n’est absolument pas informatisée et
-réalise tous ses documents à la main. Elle n’effectue aucun devis.
+Madame JPF est sophrologue. Elle n'est absolument pas informatisée et
+réalise tous ses documents à la main. Elle n'effectue aucun devis.
 Sa clientèle se forme grâce au bouche à oreille.
 Elle souhaitait dans un futur proche avoir un site internet.
-J'ai essayé de lui proposer un logiciel pour l’aider à gérer
+J'ai essayé de lui proposer un logiciel pour l'aider à gérer
 son activité.
 
 La cliente attendait un logiciel qui lui permettrait de gérer ses contacts et
@@ -30,7 +63,7 @@ La cliente souhaite grâce à une application simple et peu onéreuse :
 
 - Établir et imprimer des factures
 
-**1er cas d’utilisation**
+**1er cas d'utilisation**
 
 - <u>Objectif</u> : Gestion des nouveaux contacts
 - <u>Déroulement</u> :
@@ -44,7 +77,7 @@ Créer des nouveaux contacts
 ![WebPOO](./doc/crm_supprimer_contact.png)<br>
 Supprimer des contacts
 
-**2ème cas d’utilisation**
+**2ème cas d'utilisation**
 
 - <u>Objectif</u> : Gestion des documents préfabriqués
 - <u>Déroulement</u> :
@@ -77,24 +110,24 @@ Factures
 Modifier ou supprimer un document préfabriqué
 
 
-**3ème cas d’utilisation**
+**3ème cas d'utilisation**
 
 - <u>Objectif</u> : Gestion des documents pour un client
 - <u>Déroulement</u> :
-  - <u>Créer des documents pour un client</u> : en remplissant l’un des 
-  documents préfabriqués et en l’assignant à un patient. Il se classe 
+  - <u>Créer des documents pour un client</u> : en remplissant l'un des 
+  documents préfabriqués et en l'assignant à un patient. Il se classe 
   automatiquement dans le fichier du patient. On peut retrouver tous 
-  les documents d’un même patient au même endroit.
+  les documents d'un même patient au même endroit.
   - <u>Modifier ou supprimer un document pour un client</u>
 
 ![](./doc/crm_modifier_document.png)
 
-**4ème cas d’utilisation**
+**4ème cas d'utilisation**
 
 - <u>Objectif</u> : Gestion des factures
 - <u>Déroulement</u> :
   - <u>Modifier la facture</u> à chaque séance
-  - <u>Imprimer la facture ou l’envoyer directement par mail</u>
+  - <u>Imprimer la facture ou l'envoyer directement par mail</u>
 
 ![](./doc/crm_facture_imprimer.png)
 
@@ -102,7 +135,6 @@ Depuis, la cliente utilise mon service.
 Elle m'a également demandé des évolutions. 
 
 ### WebPOO
-
 Réalisation d'un réseau social pour des étudiants.
 
 <u>Cas d'utilisations</u> :
@@ -122,11 +154,10 @@ Ce projet n'est pas en ligne.
 
 
 ---
-## Accompagnement des utilisateurs dans la mise en place d’un service
+## Accompagnement des utilisateurs dans la mise en place d'un service
 
 ---
 ### Refonte-Site-Artiste
-
 Réalisation d'une [documentation](https://github.com/Louka-Fauvel/Refonte-Site-Artiste/blob/master/document/Documentation%20Client.pdf) pour faciliter la navigation et 
 l'utilisation du site par l'artiste.
 
@@ -142,7 +173,6 @@ Elle contient :
 ![Refonte-Site-Artiste documentation client](./doc/refonte-site-artiste_doc2.png)
 
 ### CRM
-
 Réalisation d'une [documentation](http://www.louka-fauvel.fr/assets/doc/Documentation_Client.pdf) de 9 pages pour faciliter l'expérience utilisateur 
 de la cliente.
 
@@ -159,7 +189,6 @@ Elle contient :
 ![CRM documentation client](./doc/crm_usage.png)
 
 ### WebPOO
-
 Réalisation d'un [tuto vidéo](https://www.youtube.com/watch?v=LMfGrRpgTtk) pour améliorer l'expérience utilisateur 
 des étudiants.
 
