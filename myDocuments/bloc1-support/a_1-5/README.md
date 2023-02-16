@@ -5,34 +5,39 @@
 
 ---
 ### Stage chez Fime
-**Projet :** 2
+Lors de mon stage, après chaque évolution apportée au projet, j'ai réalisé
+des tests pour vérifier que ces nouvelles fonctionnalités n'avaient
+pas d'erreur.
 
-**Mission :** 2 (Frontend)
+Les tests sont effectués avec Pipeline, un outil qui permet de réaliser
+automatiquement des tests unitaires.
+Malheureusement Pipeline ne marchait pas correctement en locale
+sur ma machine.
+J'ai donc fait les tests avec Pipeline dans l'espace (Gitlab) où est stocké
+le projet. Pipeline est intégré par défaut dans chaque repository (projet)
+de l'entreprise.
+Chaque branche est reliée à un pull request.
+À chaque fois qu'une branche est mise à jour, Pipeline fait les tests
+automatiquement :
 
-**Objectif :** modification d'un formulaire
+- Build
+- Test
+- Deploy
+- Production
 
-J'ai réalisé des tests d'intégration pour les nouvelles modifications.
+Cela permet de faire une intégration continue
+des différentes versions d'une solution applicative.
 
-**Projet :** 2
+Exemples de Tests
 
-**Mission :** 3 (Frontend)
-
-**Objectif :** Ajouter une nouvelle itération dans un projet fermé grâce à 
-un nouveau bouton
-
-J'ai ajouté les tests pour vérifier si les nouvelles fonctionnalités sont 
-aux normes et qu'il n'y ait pas d'erreur.
 ![Fime projet 2 mission 3](./doc/fime_projet_2_mission_3_test_1.png)
 ![Fime projet 2 mission 3](./doc/fime_projet_2_mission_3_test_2.png)
 ![Fime projet 2 mission 3](./doc/fime_projet_2_mission_3_test_3.png)
 
-**Projet :** 2
-
-**Mission :** 5 (Frontend)
-
-**Objectif :** Ajouter le nom de l'entreprise lors d'un commentaire
-
-J'ai réalisé des tests d'intégration pour les nouvelles modifications.
+### E-music
+Sur le projet E-music, j'ai commencé à réaliser des tests d'intégration
+avec Mockito (framework de test open source pour Java) et SpringBootTest.
+Mes tests ne sont malheureusement pas encore très concluants.
 
 ---
 ## Déploiement d'un service
