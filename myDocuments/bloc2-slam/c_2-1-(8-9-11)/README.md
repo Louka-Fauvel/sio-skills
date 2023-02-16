@@ -30,10 +30,11 @@ automatiquement :
 Cela permet de faire une intégration continue 
 des différentes versions d'une solution applicative. 
 
-(Ajouter en exemple une image pour une fonctionnalité et les tests 
-qui correspondent avec)
-(Ajouter une image de Pipeline)
-(Ajouter une image pour montrer comment se présente un test avec des erreurs)
+Exemples de Tests
+
+![Fime projet 2 mission 3](./doc/fime_projet_2_mission_3_test_1.png)
+![Fime projet 2 mission 3](./doc/fime_projet_2_mission_3_test_2.png)
+![Fime projet 2 mission 3](./doc/fime_projet_2_mission_3_test_3.png)
 
 ### E-music
 
