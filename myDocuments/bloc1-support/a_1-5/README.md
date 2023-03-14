@@ -226,3 +226,21 @@ Réalisation d'un [tuto vidéo](https://www.youtube.com/watch?v=LMfGrRpgTtk) pou
 des étudiants.
 
 [![Tuto WebPOO](./doc/webpoo_video.png)](https://www.youtube.com/watch?v=LMfGrRpgTtk)
+
+### E-music
+
+Réalisation d'une [documentation](https://github.com/PaulG0/E-Music/blob/test/suivi/Documentation_client_gestionnaire.pdf)
+de 22 pages pour guider le gestionnaire lors de son utilisation de
+l'application.
+
+Elle contient :
+- les contacts et identifiant
+- connexion
+- Consultation de la liste des membres
+- Gestion de compte
+- Gestion des cours
+- Gestion des factures et des paiements
+- Déconnexion
+
+[![E-music documentation client gestionnaire](./doc/e-music_doc_gestionnaire.png)](https://github.com/PaulG0/E-Music/blob/test/suivi/Documentation_client_gestionnaire.pdf)
+Couverture de la documentation client (gestionnaire)
