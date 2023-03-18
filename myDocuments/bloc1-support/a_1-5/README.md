@@ -205,6 +205,13 @@ Elle contient :
 [![Refonte-Site-Artiste documentation client](./doc/refonte-site-artiste_doc.png)](https://github.com/Louka-Fauvel/Refonte-Site-Artiste/blob/master/document/Documentation%20Client.pdf)
 ![Refonte-Site-Artiste documentation client](./doc/refonte-site-artiste_doc2.png)
 
+### KeePass
+Réalisation d'un [tuto vidéo](https://www.youtube.com/watch?v=pJ5LMMZXM0s) 
+pour expliquer le mode d'emploi de KeePass, un outil de sécurisation de
+mots de passe.
+
+[<img alt="Tuto KeePass" src="./doc/keepass_logo.png" width="250">](./doc/keepass_logo.png)
+
 ### CRM
 Réalisation d'une [documentation](http://www.louka-fauvel.fr/assets/doc/Documentation_Client.pdf) de 9 pages pour faciliter l'expérience utilisateur 
 de la cliente.
