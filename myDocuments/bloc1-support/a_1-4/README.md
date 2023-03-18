@@ -1,6 +1,17 @@
 # [A 1.4] Travail en mode projet
 
 ---
+## Analyse des objectifs et des modalités d'organisation d’un projet
+
+---
+### Refonte-Site-Artiste
+Nous avons rédigé [le cahier des charges](https://github.com/Louka-Fauvel/Refonte-Site-Artiste/blob/master/document/Cahier-des-charges.pdf) 
+après avoir analysé les atouts et les défauts du site d'un point de vue 
+esthétique et structurel.
+
+![Cahier des charges Refonte-Site-Artiste](./doc/cahier_des_charges_refonte-site-artiste.png)
+
+---
 ## Planification des activités
 
 Travailler en équipe nécessite de s'organiser et de communiquer.
