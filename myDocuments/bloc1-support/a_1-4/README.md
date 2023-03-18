@@ -11,6 +11,15 @@ esthétique et structurel.
 
 ![Cahier des charges Refonte-Site-Artiste](./doc/cahier_des_charges_refonte-site-artiste.png)
 
+### CRM
+J'ai rédigé une étude après avoir analysé les besoins de la cliente et
+recensé les resources de CRM à notre disposition.
+
+![Étude gestion entreprise et relation client CRM](./doc/etude_crm_1.png)
+![Étude gestion entreprise et relation client CRM](./doc/etude_crm_2.png)
+![Étude gestion entreprise et relation client CRM](./doc/etude_crm_3.png)
+![Étude gestion entreprise et relation client CRM](./doc/etude_crm_4.png)
+
 ---
 ## Planification des activités
 
