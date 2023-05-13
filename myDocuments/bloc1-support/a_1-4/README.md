@@ -20,6 +20,12 @@ recensé les resources de CRM à notre disposition.
 ![Étude gestion entreprise et relation client CRM](./doc/etude_crm_3.png)
 ![Étude gestion entreprise et relation client CRM](./doc/etude_crm_4.png)
 
+### PlanitPoker
+Suite à un échange oral, nous avons collectivement analysé 
+les besoins de l'application et nous avons rédigé l'ensemble des US.
+
+![Tableau excel format CSV PlanitPoker](./doc/tableau_excel_csv_planitpoker.png)
+
 ---
 ## Planification des activités
 
@@ -86,6 +92,14 @@ faire une nouvelle tâche. Mon camarade a répondu via Discord à
 ma proposition. Nous avons ainsi gagné du temps. 
 
 ![Discord entraide](./doc/discord_entraide.png)
+
+#### PlanitPoker
+Nous avons construit un tableau excel pour organiser et répartir les tâches.
+
+![Tableau planification excel PlanitPoker](./doc/tableau_planification_excel_planitpoker.png)
+Tableau planification excel PlanitPoker
+![Tableau de suivi des réalisations](./doc/tableau_points_excel_planitpoker.png)
+Tableau de suivi des réalisations
 
 ### Tableau de planification sur Github
 
